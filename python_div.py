@@ -6,6 +6,6 @@ def main():
     except ZeroDivisionError:
         print("Error: No se puede dividir entre cero.")
     except ValueError:
-        print("Error: Ingresa un valor numérico válido.")
+        print("Error: Ingresa un valor numérico válido. :D ")
 
 main()
